@@ -1,0 +1,4 @@
+digraph G {
+node[shape=record]
+Memory [label="{Physical Memory|Total: 15790 MB|Free: 10219 MB|Used: 5571 MB} |{Virtual Memory|Total: 134217727 MB|Free: 134213575 MB|Used: 4152 MB} |{Page File|Total: 36270 MB|Free: 28014 MB|Used: 8255 MB}"];
+}
